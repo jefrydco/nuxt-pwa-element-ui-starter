@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index renders to match snapshot 1`] = `
+<section class="el-container">
+  <main class="el-main">
+    <div class="el-row is-justify-center el-row--flex" style="margin-left: -15px; margin-right: -15px;">
+      <div class="el-col el-col-24 el-col-xs-12 el-col-sm-6" style="padding-left: 15px; padding-right: 15px;"><img src="~/static/logo.png" alt="Vue"></div>
+    </div>
+    <div class="el-row is-justify-center el-row--flex" style="margin-left: -15px; margin-right: -15px;">
+      <div class="el-col el-col-24 el-col-xs-12 el-col-sm-10" style="padding-left: 15px; padding-right: 15px;">
+        <div id="component" style="margin-bottom: 24px;">
+          <div class="el-date-editor el-range-editor el-input__inner el-date-editor--datetimerange"><i class="el-input__icon el-range__icon el-icon-time"></i><input autocomplete="off" placeholder="Start date" name="" class="el-range-input"><span class="el-range-separator">To</span><input autocomplete="off" placeholder="End date" name="" class="el-range-input"><i class="el-input__icon el-range__close-icon"></i></div>
+        </div>
+      </div>
+    </div>
+    <div class="el-table el-table--fit el-table--enable-row-hover el-table--enable-row-transition">
+      <div class="hidden-columns">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="el-table__header-wrapper">
+        <table cellspacing="0" cellpadding="0" border="0" class="el-table__header">
+          <colgroup></colgroup>
+          <thead class="">
+            <tr class=""></tr>
+          </thead>
+        </table>
+      </div>
+      <div class="el-table__body-wrapper is-scrolling-none">
+        <table cellspacing="0" cellpadding="0" border="0" class="el-table__body">
+          <colgroup></colgroup>
+          <tbody>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <tr class="el-table__row"></tr>
+            <!---->
+          </tbody>
+        </table>
+        <!---->
+        <!---->
+      </div>
+      <!---->
+      <!---->
+      <!---->
+      <!---->
+      <div class="el-table__column-resize-proxy" style="display: none;"></div>
+    </div>
+  </main>
+</section>
+`;

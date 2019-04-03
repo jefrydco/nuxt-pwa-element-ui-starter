@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders to match snapshot 1`] = `
+<div id="component" style="margin-bottom: 24px;">
+  <el-date-picker-stub appendtobody="true" offset="0" boundariespadding="5" arrowoffset="35" startplaceholder="Start date" endplaceholder="End date" clearicon="el-icon-circle-close" name="" clearable="true" id="" editable="true" align="left" rangeseparator="To" validateevent="true" type="datetimerange"></el-date-picker-stub>
+</div>
+`;

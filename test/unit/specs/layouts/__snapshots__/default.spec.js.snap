@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Default layout renders to match snapshot 1`] = `
+<section class="el-container">
+  <aside class="el-aside" style="width: 200px; background-color: rgb(238, 241, 246);">
+    <ul role="menubar" class="el-menu">
+      <li role="menuitem" aria-haspopup="true" aria-expanded="true" class="el-submenu is-opened">
+        <div class="el-submenu__title" style="padding-left: 20px;"><i class="el-icon-message"></i>Navigator One
+          <i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
+        <ul role="menu" class="el-menu el-menu--inline">
+          <li class="el-menu-item-group">
+            <div class="el-menu-item-group__title" style="padding-left: 40px;">
+              Group 1
+            </div>
+            <ul>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 1</li>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 2</li>
+            </ul>
+          </li>
+          <li class="el-menu-item-group">
+            <div class="el-menu-item-group__title" style="padding-left: 40px;">Group 2</div>
+            <ul>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 3</li>
+            </ul>
+          </li>
+          <li role="menuitem" aria-haspopup="true" class="el-submenu">
+            <div class="el-submenu__title" style="padding-left: 40px;">
+              Option4
+              <i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
+            <ul role="menu" class="el-menu el-menu--inline" style="display: none;">
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 60px;">Option 4-1</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li role="menuitem" aria-haspopup="true" class="el-submenu">
+        <div class="el-submenu__title" style="padding-left: 20px;"><i class="el-icon-menu"></i>Navigator Two
+          <i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
+        <ul role="menu" class="el-menu el-menu--inline" style="display: none;">
+          <li class="el-menu-item-group">
+            <div class="el-menu-item-group__title" style="padding-left: 40px;">
+              Group 1
+            </div>
+            <ul>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 1</li>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 2</li>
+            </ul>
+          </li>
+          <li class="el-menu-item-group">
+            <div class="el-menu-item-group__title" style="padding-left: 40px;">Group 2</div>
+            <ul>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 3</li>
+            </ul>
+          </li>
+          <li role="menuitem" aria-haspopup="true" class="el-submenu">
+            <div class="el-submenu__title" style="padding-left: 40px;">
+              Option 4
+              <i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
+            <ul role="menu" class="el-menu el-menu--inline" style="display: none;">
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 60px;">Option 4-1</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li role="menuitem" aria-haspopup="true" aria-expanded="true" class="el-submenu is-opened">
+        <div class="el-submenu__title" style="padding-left: 20px;"><i class="el-icon-setting"></i>Navigator Three
+          <i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
+        <ul role="menu" class="el-menu el-menu--inline">
+          <li class="el-menu-item-group">
+            <div class="el-menu-item-group__title" style="padding-left: 40px;">
+              Group 1
+            </div>
+            <ul>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 1</li>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 2</li>
+            </ul>
+          </li>
+          <li class="el-menu-item-group">
+            <div class="el-menu-item-group__title" style="padding-left: 40px;">Group 2</div>
+            <ul>
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 40px;">Option 3</li>
+            </ul>
+          </li>
+          <li role="menuitem" aria-haspopup="true" class="el-submenu">
+            <div class="el-submenu__title" style="padding-left: 40px;">
+              Option 4
+              <i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
+            <ul role="menu" class="el-menu el-menu--inline" style="display: none;">
+              <li role="menuitem" tabindex="-1" class="el-menu-item" style="padding-left: 60px;">Option 4-1</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </aside>
+  <div></div>
+</section>
+`;
