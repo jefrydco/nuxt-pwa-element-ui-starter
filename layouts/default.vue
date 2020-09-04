@@ -6,14 +6,14 @@
 </template>
 
 <script>
-import AppAside from "~/components/AppAside";
+import AppAside from '~/components/AppAside'
 
 export default {
   components: {
     AppAside
   },
   data() {
-    return {};
+    return {}
   }
-};
+}
 </script>
