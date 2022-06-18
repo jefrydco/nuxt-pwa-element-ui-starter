@@ -38,7 +38,7 @@
     "test:unit": "jest"
   },
   "dependencies": {
-    "@mdi/font": "^5.5.55",
+    "@mdi/font": "^6.7.96",
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/component-cache": "^1.1.6",
     "@nuxtjs/dotenv": "^1.4.1",
