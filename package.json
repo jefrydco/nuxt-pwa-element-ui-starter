@@ -47,7 +47,7 @@
     "@nuxtjs/sentry": "^4.3.4",
     "@nuxtjs/sitemap": "^2.4.0",
     "element-ui": "^2.13.2",
-    "lru-cache": "^6.0.0",
+    "lru-cache": "^8.0.4",
     "nuxt": "^2.14.4"
   },
   "devDependencies": {
